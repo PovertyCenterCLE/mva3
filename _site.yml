@@ -6,6 +6,8 @@ navbar:
       href: July29_first_pass_cluster.html
     - text: "August 5"
       href: August5.html
+    - text: "Dec 8"
+      href: clustering_1719_dec08.html
 output_dir: "."
 output:
   html_document:
