@@ -8,6 +8,9 @@ navbar:
       href: August5.html
     - text: "Dec 8"
       href: clustering_1719_dec08.html
+    - text: "Dec 17"
+      href: clustering_1719_dec17.html
+      
 output_dir: "."
 output:
   html_document:
